@@ -29,8 +29,8 @@ The following figure sums up my preference in terms of features provided
 
 > I concluded that the vast majority of my saved songs are energetic meaning that they are high in danceability and energy. I also like calm/romantic songs from time to time.
 ## Links to my playlists created
--CLuster 0(rap):https://open.spotify.com/playlist/6dL6xOCcema8DUSzYLfx06
--Cluster 1(Energetic/dancing):https://open.spotify.com/playlist/0LlIHqBd2zOHemZ3c7j6Ov
--Cluster 2(Calm/Romantic):https://open.spotify.com/playlist/4mF1KkRP5YITPTf1dakXJP
--Cluster 3(Studying/Thinking):https://open.spotify.com/playlist/4xRgEf6Y4iBs3I3WNNofMr
--Cluster 4(Chill):https://open.spotify.com/playlist/5FtCtZ5QrpQDlXxIB9DMEi
+- CLuster 0(rap):https://open.spotify.com/playlist/6dL6xOCcema8DUSzYLfx06
+- Cluster 1(Energetic/dancing):https://open.spotify.com/playlist/0LlIHqBd2zOHemZ3c7j6Ov
+- Cluster 2(Calm/Romantic):https://open.spotify.com/playlist/4mF1KkRP5YITPTf1dakXJP
+- Cluster 3(Studying/Thinking):https://open.spotify.com/playlist/4xRgEf6Y4iBs3I3WNNofMr
+- Cluster 4(Chill):https://open.spotify.com/playlist/5FtCtZ5QrpQDlXxIB9DMEi
