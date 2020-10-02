@@ -1,5 +1,7 @@
 # Clustering my songs on Spotify and  mood prediction
-
+# Detailed Information
+If you want to know more about the process, please make time to read an article I wrote explaining some crucial steps:
+https://medium.com/@chingisoinar/cluster-your-liked-songs-on-spotify-into-playlists-of-similar-songs-66a244ba297e
 # About:
 
 I am going to cluster my saved songs on Spotify. Clusters are going to be derived due to KMeans clustering model, which was trained with Spotify Dataset 1921-2020 found on Kaggle. Spotify Dataset 1921-2020 contains more than 160 000 songs that were released during the period of 1921-2020. Aditionally, all the clusters derived will represent a certain mood I have while listening to my music. Furthermore, I am going to get my Spotify recommendations and classify recommended songs using a trained classifier. Finally, it can be used to predict my mood and suggest new songs that fit my current mood.
@@ -18,7 +20,7 @@ Get started:[https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tra
 
 ## Classifiers
 
-There are four models compared in terms of accuracy, which are KNeighborsClassifier,RandomForestClassifier, Support Vector Classifier and Naive Bayes. Support Vector Classifier tourned out to be the best model in terms of accuracy, which made up roughly 0.998, hence we will be using it for future classification.
+There are four models compared in terms of accuracy, which are KNeighborsClassifier,RandomForestClassifier, Support Vector Classifier and Naive Bayes. Support Vector Classifier turned out to be the best model in terms of accuracy, which made up roughly 0.998, hence we will be using it for future classification.
 
 ![Clustering%20my%20songs%20on%20Spotify%20and%20mood%20prediction%2064955a851fe849f8864f6b4047c1b582/SVC_confusion_matrix.png](Clustering%20my%20songs%20on%20Spotify%20and%20mood%20prediction%2064955a851fe849f8864f6b4047c1b582/SVC_confusion_matrix.png)
 
